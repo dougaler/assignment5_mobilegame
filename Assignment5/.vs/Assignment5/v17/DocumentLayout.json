@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\bmi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:bmi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\bmiresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:bmiresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\recompage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:recompage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\recompage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:recompage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\bmi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:bmi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\bmiresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:bmiresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\assignment5\\assignment5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFF58E02-8857-428A-BF09-18D603B5CBE2}|Assignment5.csproj|solutionrelative:assignment5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecomPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\RecomPage.xaml.cs",
+              "RelativeDocumentMoniker": "RecomPage.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\RecomPage.xaml.cs",
+              "RelativeToolTip": "RecomPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:51:14.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecomPage.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\RecomPage.xaml",
+              "RelativeDocumentMoniker": "RecomPage.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\RecomPage.xaml",
+              "RelativeToolTip": "RecomPage.xaml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T18:51:02.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BMIResult.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMIResult.xaml.cs",
+              "RelativeDocumentMoniker": "BMIResult.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMIResult.xaml.cs",
+              "RelativeToolTip": "BMIResult.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:49:30.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMIResult.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMIResult.xaml",
+              "RelativeDocumentMoniker": "BMIResult.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMIResult.xaml",
+              "RelativeToolTip": "BMIResult.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvx4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T18:48:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BMI.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMI.xaml.cs",
+              "RelativeDocumentMoniker": "BMI.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMI.xaml.cs",
+              "RelativeToolTip": "BMI.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:52:40.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:46:40.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMI.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMI.xaml",
+              "RelativeDocumentMoniker": "BMI.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\BMI.xaml",
+              "RelativeToolTip": "BMI.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T17:51:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:53:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T17:51:24.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment5",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\Assignment5.csproj",
+              "RelativeDocumentMoniker": "Assignment5.csproj",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\assignment5\\assignment5_mobilegame\\Assignment5\\Assignment5.csproj",
+              "RelativeToolTip": "Assignment5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T17:45:45.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment5.BMIResult"
+             Title="BMIResult"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout Spacing="20"
+                         Margin="20">
+        <Label 
+            Text="BMI Result"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Frame HorizontalOptions="Center"
+               Padding="50"
+               HasShadow="True"
+               BorderColor="AntiqueWhite"
+               >
+            <Label x:Name="LblBMI"
+                   HorizontalOptions="Center"
+                   FontSize="20"/>
+        </Frame>
+        <Button Text="Recommendations"
+                FontSize="Medium"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                CornerRadius="20"
+                Background="Blue"
+                Clicked="Button_Clicked"/>
+        <Button Text="Calculate BMI"
+                FontSize="Medium"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                CornerRadius="20"
+                Background="Blue"
+                Clicked="Button_Clicked_1"/>
+    </VerticalStackLayout>
+</ContentPage>

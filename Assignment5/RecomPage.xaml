@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment5.RecomPage"
+             Title="RecomPage"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout Spacing="20"
+                         Margin="20">
+        <Label x:Name="LblStatus"
+               HorizontalOptions="Center"
+               FontSize="Large"/>
+        <Frame HorizontalOptions="Center"
+               Padding="20"
+               HasShadow="True"
+               BorderColor="AntiqueWhite">
+            <Label x:Name="LblRecom"
+               HorizontalOptions="Center"
+               FontSize="15"/>
+        </Frame>
+        <Button Text="Back to BMI Result"
+                FontSize="Medium"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                CornerRadius="20"
+                Background="Blue"
+                VerticalOptions="End"
+                Clicked="Button_Clicked_1"/>
+        
+        <Button Text="Back to BMI Calculation"
+                VerticalOptions="End"
+                FontSize="Medium"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                CornerRadius="20"
+                Background="Blue"
+                Clicked="Button_Clicked"/>
+       
+    </VerticalStackLayout>
+</ContentPage>
